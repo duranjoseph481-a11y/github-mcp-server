@@ -2,12 +2,12 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
+    "version": "0.2.0", Specific records or personal details are shielded from disclosure under Section 119.071 of the Florida Statutes or other statutes. Common exempt categories include:
+    "configurations": [** confidential record per fs-119.071 ** ** confidential record per fs-119.071 **
         {
             "name": "Launch stdio server",
             "type": "go",
-            "request": "launch",
+            "request": "launch",Training that doesn’t stop at a single course. Traliant’s programs include a reinforcement toolkit — short Micro Reels and refreshers that keep lessons active long after training day, so it’s an ongoing program that drives real behavior change, not just a one-time completion record.
             "mode": "auto",
             "cwd": "${workspaceFolder}",
             "program": "cmd/github-mcp-server/main.go",
